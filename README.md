@@ -1,4 +1,4 @@
-# demo-twitter-kafka
+# kafka-cqrs-refimpl
 
 
 ```
